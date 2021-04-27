@@ -7,4 +7,8 @@ int main(){
     cout<<x<<endl; //prints the value of x
     cout<<&x<<endl; //prints the address of x
     cout<<*(&x)<<endl; //prints the value of x
+    return 0;
 }
+
+
+
